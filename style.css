@@ -1,5 +1,5 @@
 body {
-   background-image: url(imagens/fundo.png);
+   background-image: url("imagens/fundo.png");
    background-attachment: fixed;
    height: 900px; 
    width: 900px;
