@@ -1,6 +1,4 @@
-html {
-    height: 100%;
-}
 body {
-    min-height: 900px;
+   height: 900px; 
+   width: 900px;
 }
